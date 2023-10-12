@@ -1,5 +1,6 @@
 import Image from 'next/image' ;
-import {Test_Counter,Test_Form} from './test';
+import {Test_Form} from './dateForm';
+import {Test_Counter} from './testCounter';
 import styles from './page.module.css' ;
 
 export default function Home() {
